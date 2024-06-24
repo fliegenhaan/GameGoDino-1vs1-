@@ -3,6 +3,8 @@
 
 # About
 > Game ini merupakan versi terbaru dari sebuah project yang sebelumnya dibuat oleh kelompok tugas besar Dasar Pemrograman IF1210 2024 K10-C. Program ini adalah sebuah game berbasis bahasa pemrograman Python yang mewajibkan pengguna untuk login ke akun mereka atau membuat akun jika tidak memiliki akun. Setelah login, pengguna dapat membeli monster dan item lainnya, mengupgrade level monster, serta bertarung dengan monster lainnya. Semua perubahan yang terjadi dalam game disimpan dan data-data dalam game diakses dari file CSV yang berada dalam folder tertentu. Program ini melibatkan beberapa fungsi utama seperti autentikasi pengguna(dalam fungsi register,login,logout), pengelolaan inventori monster dan potion, pertarungan antar monster, dan pengaksesan dan penyimpanan data.
+# About Latest Version
+> Pada repositori ini semua fungsi yang tadinya terpisah digabung dalam satu file bernama Main.py. Pada file tersebut sudah diperbaiki beberapa bug yang sebelumnya belum diperbaiki terkait penempatan elemen array serta tipe variabel yang masih tidak sesuai. Pada repositori ini juga akan terus di-update jika sewaktu-waktu developer/user menemukan bug.
 # Contributors
 > Assistant:
 > 1. 13521024 - Ahmad Nadil
